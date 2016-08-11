@@ -7,7 +7,7 @@
 ### 一般使用
 如果已經熟悉基本前端網頁運作方式，且有習慣的文字編輯器，建議使用此方法來開發。
 1. 前往官網下載 [p5.js](https://github.com/processing/p5.js/releases/download/0.5.2/p5.js)
-2. 新增你的 `.html` 檔案，並且適當的引入 `p5.js`
+2. 新增你的 `.html` 檔案，並且適當地引入 `p5.js`
 
 ```html
 <!DOCTYPE html>
